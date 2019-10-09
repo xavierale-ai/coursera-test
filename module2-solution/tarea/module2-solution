@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Assignment Solution for Module 2</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <h1>Subgeneros del rock</h1>
+    <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="Garage_rock">
+                <h2>Garage rock</h2>
+                <p>
+                    El término rock de garaje viene del hecho de que sus intérpretes eran grupos compuestos por adolescentes y jóvenes aficionados, con una escasísima preparación musical, que solían reunirse «para tocar y ensayar en el garaje de sus casas». La música de estas bandas era, por lo general, mucho menos elaborada que los originales en los que se inspiraban (dado que sus intérpretes poseían escasa pericia instrumental.
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="Hard_rock">
+                <h2>Hard rock</h2>
+                <p>
+                    subgénero vagamente definido de la música rock surgido a mediados de los sesenta a partir de los movimientos del garage, el blues y el rock psicodélico. Es caracterizado el uso de letras agresivas con guitarras eléctricas distorsionadas, un bajo, batería, y en ocasiones teclados.
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-12 col-sm-12">
+            <section class="Punk">
+                <h2>Punk</h2>
+                <p>
+                    género musical que emergió a mediados de los años 1970. Este género se caracteriza en la industria musical por su actitud independiente y contracultural. En sus inicios, el punk era una música muy simple y cruda, a veces descuidada: un tipo de rock sencillo, con melodías agresivas de duraciones cortas, sonidos de guitarras amplificadas poco controlados y ruidosos cargados de mucha distorsión, pocos arreglos e instrumentos y, por lo general, de compases y tempos rápidos.
+                </p>
+            </section>
+        </div>
+    </div>
+</body>
+
+</html>
+
